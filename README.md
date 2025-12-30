@@ -1,3 +1,18 @@
+<h1>Lab: Apply filters to SQL queries</h1>
+<p>
+  <b>Language used:</b> SQL<br>
+  <b>Database System:</b> MariaDB
+</p>
+
+<h2>Summary</h2>
+<p>
+I applied SQL filters (AND, OR, NOT) and pattern matching (LIKE with %) to extract actionable datasets from two tables: log_in_attempts and employees. The work produced focused result sets for security investigation and operational updates: after‑hours failed attempts (19), attempts on critical dates (75), attempts outside Mexico (144), Marketing East employees (first: elarson), Finance/Sales employees (first Sales: lrodriqu), and non‑IT employees (161). These queries and their annotated results are ready to include as artifacts in the portfolio to demonstrate practical SQL skills for security analysis.
+</p>
+
+<br />
+<hr />
+<br />
+
 <h1>Apply filters to SQL queries</h1>
 
 <h2>Project description</h2>
