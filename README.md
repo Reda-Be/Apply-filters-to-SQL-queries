@@ -186,5 +186,3 @@ Key result: 161 employees not in Information Technology
 The screenshot would show the query and a portion of results. This query excludes rows where department equals 'Information Technology'. Result: 161 employees not in IT. Action: plan and track updates for these remaining users.
 <br/>
 </p>
-
-The screenshot would show the query and a portion of results. This query excludes rows where department equals 'Information Technology'. Result: 161 employees not in IT. Action: plan and track updates for these remaining users.
